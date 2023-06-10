@@ -1,6 +1,6 @@
 Hi, I'm ryicoh.
 
-* I love Golang, Kubernetes.
+* I love Golang, Kubernetes and Database.
 * I'm learning to make Sushi🍣.
 * I prefer using Vim without settings.
 
